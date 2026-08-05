@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Kaustav11072006/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## String
