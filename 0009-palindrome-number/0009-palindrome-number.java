@@ -13,11 +13,7 @@ class Solution {
             n=n/10;
          }
 
-         if(revnum==x){
-            return true;
-         }
-         else{
-            return false;
-         }
+        return revnum==x;
+        
     }
 }
