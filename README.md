@@ -10,6 +10,7 @@
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1518-water-bottles](https://github.com/Kaustav11072006/Leetcode/tree/main/1518-water-bottles/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Kaustav11072006/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1518-water-bottles](https://github.com/Kaustav11072006/Leetcode/tree/main/1518-water-bottles/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
