@@ -3,8 +3,7 @@ class Solution {
         int max = 0;
         for (int i = 0; i<nums.length-1;i++){
             for (int j = i+1; j<nums.length;j++){
-                int p = (nums[i]-1)*(nums[j]-1);
-                if (p>max)max=p;
+                max = Math.max( (nums[i]-1)*(nums[j]-1),max);
             }
         }
         return max;
