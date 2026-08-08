@@ -29,10 +29,12 @@
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Kaustav11072006/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
