@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Kaustav11072006/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaustav11072006/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaustav11072006/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -34,6 +36,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
@@ -44,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaustav11072006/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaustav11072006/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
