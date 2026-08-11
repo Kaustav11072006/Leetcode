@@ -1,24 +1,26 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int s = 0;
-        int e = nums.length - 1;
-        int p = nums.length - 1;
-        int[] result = new int[nums.length]; // 1. Fixed array size
+        
+        int i=0;
+        int j=nums.length-1;
+        int k=nums.length-1;
 
-        while (s <= e) { // 2. Fixed loop condition
-            int val1 = Math.abs(nums[s]);
-            int val2 = Math.abs(nums[e]);
+        int[] arr = new int[nums.length];
 
-            if (val1 > val2) {
-                result[p] = val1 * val1;
-                s++;
-            } else {
-                result[p] = val2 * val2;
-                e--;
+
+        while(i <= j){
+            int leftSquare = nums[i]*nums[i];
+            int rightSquare = nums[j]*nums[j];
+
+            if(leftSquare > rightSquare){
+                arr[k] = leftSquare;
+                i++;
+            } else{
+                arr[k] = rightSquare;
+                j--;
             }
-            p--; // 3. Decrement pointer after placing the squared value
+            k--;
         }
-
-        return result;
+        return arr;
     }
 }
