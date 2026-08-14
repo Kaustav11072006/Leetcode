@@ -29,6 +29,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaustav11072006/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Kaustav11072006/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -105,4 +106,8 @@
 | [0027-remove-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kaustav11072006/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
