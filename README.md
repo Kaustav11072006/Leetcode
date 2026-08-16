@@ -14,6 +14,7 @@
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Kaustav11072006/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1518-water-bottles](https://github.com/Kaustav11072006/Leetcode/tree/main/1518-water-bottles/) | Easy |
 ## String
@@ -64,12 +65,14 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +127,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Kaustav11072006/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +144,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
