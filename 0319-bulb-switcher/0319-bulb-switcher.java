@@ -1,5 +1,7 @@
 class Solution {
     public int bulbSwitch(int n) {
-        return (int)Math.sqrt(n);
+        int count=0;
+        for(int i=1;i*i<=n;i++) count++;//Bulbs at perfect square are ON at the end of the day. 
+        return count;
     }
 }
