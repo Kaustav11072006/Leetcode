@@ -6,6 +6,8 @@ class Solution {
             if(height[l]<height[r]) l++;
             else r--;
         }
+        System.gc();
+
         return area;
     }
 }
