@@ -10,6 +10,7 @@
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Kaustav11072006/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Kaustav11072006/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Kaustav11072006/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Kaustav11072006/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -86,11 +87,13 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Kaustav11072006/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Kaustav11072006/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Kaustav11072006/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
