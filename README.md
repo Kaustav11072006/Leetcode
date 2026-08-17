@@ -38,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kaustav11072006/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Kaustav11072006/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kaustav11072006/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -135,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kaustav11072006/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Kaustav11072006/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,8 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Kaustav11072006/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
