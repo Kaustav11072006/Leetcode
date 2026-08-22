@@ -42,6 +42,7 @@
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Kaustav11072006/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0704-binary-search](https://github.com/Kaustav11072006/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kaustav11072006/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -117,6 +118,7 @@
 | [0035-search-insert-position](https://github.com/Kaustav11072006/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Kaustav11072006/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
