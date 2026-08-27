@@ -37,6 +37,7 @@
 | [0027-remove-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kaustav11072006/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav11072006/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Kaustav11072006/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav11072006/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Kaustav11072006/Leetcode/tree/main/1025-divisor-game/) | Easy |
