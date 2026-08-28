@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0292-nim-game/) | Easy |
@@ -41,6 +42,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav11072006/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Kaustav11072006/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
@@ -138,6 +140,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
