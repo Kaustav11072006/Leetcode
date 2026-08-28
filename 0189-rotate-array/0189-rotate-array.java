@@ -1,20 +1,26 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k % n; // Handle cases where k >= n
+        k = k % n;
+        if (k == 0) return;
+
+        int count = 0; // Tracks total moved elements
         
-        reverse(nums, 0, n - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, n - 1);
-    }
-    
-    private void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+        for (int start = 0; count < n; start++) {
+            int current = start;
+            int prevValue = nums[start];
+
+            do {
+                int next = (current + k) % n;
+                
+                // Swap the displaced value with prevValue
+                int temp = nums[next];
+                nums[next] = prevValue;
+                prevValue = temp;
+                
+                current = next;
+                count++;
+            } while (start != current);
         }
     }
 }
