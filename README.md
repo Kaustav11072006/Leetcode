@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Kaustav11072006/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1518-water-bottles](https://github.com/Kaustav11072006/Leetcode/tree/main/1518-water-bottles/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Kaustav11072006/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
