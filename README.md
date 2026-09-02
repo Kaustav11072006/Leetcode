@@ -41,6 +41,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kaustav11072006/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Kaustav11072006/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav11072006/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -61,6 +62,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kaustav11072006/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -142,6 +144,7 @@
 | [0011-container-with-most-water](https://github.com/Kaustav11072006/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Kaustav11072006/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaustav11072006/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Kaustav11072006/Leetcode/tree/main/0283-move-zeroes/) | Easy |
