@@ -21,6 +21,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1518-water-bottles](https://github.com/Kaustav11072006/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Kaustav11072006/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kaustav11072006/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
