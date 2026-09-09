@@ -57,6 +57,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Kaustav11072006/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kaustav11072006/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Kaustav11072006/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/Kaustav11072006/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Kaustav11072006/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kaustav11072006/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Kaustav11072006/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -75,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Kaustav11072006/Leetcode/tree/main/0274-h-index/) | Medium |
+| [0645-set-mismatch](https://github.com/Kaustav11072006/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kaustav11072006/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kaustav11072006/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -88,6 +90,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaustav11072006/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/Kaustav11072006/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@
 | [0231-power-of-two](https://github.com/Kaustav11072006/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Kaustav11072006/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0645-set-mismatch](https://github.com/Kaustav11072006/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
