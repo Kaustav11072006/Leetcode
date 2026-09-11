@@ -68,6 +68,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kaustav11072006/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kaustav11072006/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Kaustav11072006/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
@@ -93,6 +94,7 @@
 | [0268-missing-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaustav11072006/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kaustav11072006/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kaustav11072006/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | [0326-power-of-three](https://github.com/Kaustav11072006/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Kaustav11072006/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kaustav11072006/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kaustav11072006/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Kaustav11072006/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kaustav11072006/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
